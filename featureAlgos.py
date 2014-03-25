@@ -4,7 +4,11 @@
 
 def informationGain(features,labels):
     '''
-    informationGain
+    This implementation of information gain
+    simply binerizes the data and then
+    calculates information gain following the
+    elements of information theory book equation in page
+    
     '''
     
     
